@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Book","h":"","u":""},{"l":"BookTest","h":"","u":""},{"l":"Person","h":"","u":""},{"l":"PersonTest","h":"","u":""},{"l":"Publication","h":"","u":""},{"l":"所有类","h":"","u":"allclasses-index.html"}]
